@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590890403915",
+    "project_id": "sportshop-dbe96",
+    "storage_bucket": "sportshop-dbe96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590890403915:android:88c4bba62c25c7ec7125ce",
+        "android_client_info": {
+          "package_name": "com.example.sportshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590890403915-lk8p023dn3d0841csdd4ktk1vbrhuluj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iFsjZFIY_o5lNG6UgnQZzQjkI4zq-E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590890403915-lk8p023dn3d0841csdd4ktk1vbrhuluj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

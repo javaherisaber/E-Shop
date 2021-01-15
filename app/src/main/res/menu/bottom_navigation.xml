@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<item
+    android:id="@+id/nav_home"
+    android:icon="@drawable/ic_baseline_home_24"
+    android:title="Home"/>
+    <item
+        android:id="@+id/nav_trainingsset"
+        android:icon="@drawable/tshirt"
+        android:title="Trainingsset"/>
+
+<item
+    android:id="@+id/nav_shoes"
+    android:icon="@drawable/shoes"
+    android:title="Sneakers"/>
+    <item
+        android:id="@+id/nav_offers"
+        android:icon="@drawable/ic__offer"
+        android:title="Sale"/>
+<item
+    android:id="@+id/nav_favorite"
+    android:icon="@drawable/ic_baselin_favorite"
+    android:title="Favorite"/>
+
+
+</menu>

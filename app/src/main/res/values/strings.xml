@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SportShop</string>
+    <string name="your_new_email">Your New Email</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_new_password">Your New Password</string>
+    <string name="change_your_email">Change YOur Email</string>
+    <string name="change_your_pssword">Change Your Pssword</string>
+    <string name="change_your_Pssword" />
+    <string name="change_your_password">Change Your Password</string>
+    <string name="send_all_info">Send All Info</string>
+    <string name="remove">Remove</string>
+    <string name="change_email">Change Your Email</string>
+    <string name="sing_out">Sing Out</string>
+    <string name="remove_user">Remove User</string>
+    <string name="send_password_reset_email">Send Password Reset Email</string>
+    <string name="new_here_create_account">New Here? Create Account!</string>
+    <string name="login_here">Login Here</string>
+</resources>
